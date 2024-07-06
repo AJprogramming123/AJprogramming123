@@ -1,7 +1,7 @@
 # Andres Jaimes <img align="left" alt="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/>
           
 
-**'Tech enthusiast (Developer/Student/Creator)'**
+**Tech enthusiast (Developer/Student/Creator)**
 
 I am currently a student at Florida International University (FIU). I recently graduated with my associate degree in Computer Information Technology and developed a passion for web design after taking a course in C and two courses in Java, and from practices convincing me that this is the path for me.
 
