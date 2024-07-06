@@ -3,9 +3,9 @@
 
 **'Tech enthusiast (Developer/Student/Creator)'**
 
-I'm at the moment a student in FIU (Florida International University that recently graduated with my associates in 'Computer Information Technology' and started developing a passion with web design after taking a course in 'C' and two courses in 'JAVA'.
+I am currently a student at Florida International University (FIU). I recently graduated with my associate degree in Computer Information Technology and developed a passion for web design after taking a course in C and two courses in Java, and from practices convincing me that this is the path for me.
 
-<p>Learning and sharpening my skills through self-projects, FreeCodeCamp, DataCamp, CompTIA certifications and more.. continusly pursuing my goal to become a full-stack developer and at most become a strong front-end developer before graduating with my bachelor's in Information Technology.</p>
+I am learning and sharpening my skills through self-projects, FreeCodeCamp, DataCamp, CompTIA certifications, and more. I continuously pursue my goal to become a full-stack developer and aim to become a strong front-end developer before graduating with my bachelor's degree in Information Technology.
 
 <hr>
 
