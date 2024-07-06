@@ -1,4 +1,4 @@
-# AJprogramming <img align="left" alt="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/>
+# Andres Jaimes <img align="left" alt="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/>
           
 
 **'Tech enthusiast (Developer/Student/Creator)'**
