@@ -7,7 +7,8 @@ I'm at the moment a student in FIU (Florida International University that recent
 
 <p>Learning and sharpening my skills through self-projects, FreeCodeCamp, DataCamp, CompTIA certifications and more.. continusly pursuing my goal to become a full-stack developer and at most become a strong front-end developer before graduating with my bachelor's in Information Technology.</p>
 
-
+<br>
+<br>
 
 
 **'Languages and Tools'**->**'(IN ORDER from learning):'**
@@ -27,7 +28,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"/>
   
 
-
+<br>
+<br>
 
 
 **'School Repositories'**
