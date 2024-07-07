@@ -1,5 +1,4 @@
-# Andres Jaimes <img align="left" alt="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/>
-          
+# Andres Jaimes <script type="module"> import programmingLanguagesLogos from 'https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/+esm' </script>
 
 **Tech enthusiast (Developer/Student/Creator)**
 
