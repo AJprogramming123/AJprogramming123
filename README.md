@@ -1,4 +1,4 @@
-# Andres Jaimes <script type="module"> import programmingLanguagesLogos from 'https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/+esm' </script>
+# Andres Jaimes <script type="module">
 
 **Tech enthusiast (Developer/Student/Creator)**
 
