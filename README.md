@@ -35,12 +35,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-origina
 
 **'School Repositories'**
 
-JAVA:
+**JAVA:**
 
-## Java Level 1
+Java Level 1
 [COP2250](https://github.com/AJprogramming123/Java-FIU-)
 
-## Java Level 2
+Java Level 2
 [COP3804](https://github.com/AJprogramming123/COP3804-JAVA2-FIU)
 
 
