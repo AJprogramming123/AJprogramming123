@@ -1,4 +1,4 @@
-# Andres Jaimes <script type="module">
+# Andres Jaimes
 
 **Tech enthusiast (Developer/Student/Creator)**
 
