@@ -15,7 +15,7 @@ I'm currently working on:
 
 ## 🔧 Current Projects
 
-### 🔐 [Raspberry Pi Homelab Setup](https://github.com/AJprogramming123/Raspberry-Pi)
+### 🔐 [Raspberry Pi Homelab Setup](https://github.com/AJprogramming123/Raspberry_Pi)
 
 This project involves setting up a **secure file-sharing system** using **Samba** over **Tailscale VPN**. I secured the Raspberry Pi with **Fail2Ban**, **firewalld**, and **SSH hardening** to ensure only authorized devices can access the network. This setup serves as a **self-hosted, private cloud storage** solution accessible anywhere via VPN.
 
@@ -31,5 +31,5 @@ You can reach me through the following platforms:
 ## 📄 Documentation
 
 Here are links to my repositories where I document detailed configurations and setups:
-- [Raspberry Pi Projects](https://github.com/AJprogramming123/Raspberry-Pi) – Various projects to strengthen my network and security skills.
+- [Raspberry Pi Projects](https://github.com/AJprogramming123/Raspberry_Pi) – Various projects to strengthen my network and security skills.
 - [Bash Linux Commands](https://github.com/AJprogramming123/Bash-Linux) – A collection of useful Bash commands for Linux systems.
