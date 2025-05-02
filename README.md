@@ -1,6 +1,6 @@
 # Hi, I'm Andres! 👋
 
-Welcome to my GitHub profile. I’m passionate about networking, security, and automation, and I love learning by doing. 
+Welcome to my GitHub profile.
 
 ---
 
