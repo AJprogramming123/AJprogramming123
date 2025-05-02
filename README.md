@@ -1,44 +1,35 @@
-# Andres Jaimes
+# Hi, I'm Andres! 👋
 
-**Tech enthusiast (Developer/Student/Creator)**
+Welcome to my GitHub profile. I’m passionate about networking, security, and automation, and I love learning by doing. 
 
-I am currently a student at Florida International University (FIU). I recently graduated with my associate degree in Computer Information Technology and developed a passion for development after taking a course in C and two courses in Java, and from practices convincing me that this is the path for me.
+---
 
-<hr>
+## 🚀 About Me
 
+I'm currently working on:
+- Setting up **Homelab environments** using **Raspberry Pi** to learn and implement **networking** and **security** concepts.
+- Automating my **network environment** and strengthening security measures in practical setups.
+- **Documenting** my projects on **GitHub** to share my learning journey with the community.
 
+---
 
-**'Languages and Tools'**->**'(IN ORDER from learning):'**
-<p align="left">
-<img align="left" alt="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<img align="left" alt="SQL" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-<img align="left" alt="JAVA" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Json" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"/>
-  
+## 🔧 Current Projects
 
-<br>
-<hr>
-<h2>Repositories</h2>
-<br>
+### 🔐 [Raspberry Pi Homelab Setup](https://github.com/AJprogramming123/Raspberry-Pi)
 
-**'School Repositories'**
+This project involves setting up a **secure file-sharing system** using **Samba** over **Tailscale VPN**. I secured the Raspberry Pi with **Fail2Ban**, **firewalld**, and **SSH hardening** to ensure only authorized devices can access the network. This setup serves as a **self-hosted, private cloud storage** solution accessible anywhere via VPN.
 
-**JAVA:**
+---
 
-Java Level 1
-[COP2250](https://github.com/AJprogramming123/Java-FIU-)
+## 🌐 Connect with Me
 
-Java Level 2
-[COP3804](https://github.com/AJprogramming123/COP3804-JAVA2-FIU)
+You can reach me through the following platforms:
+- LinkedIn: [Andres Jaimes](https://www.linkedin.com/in/andresjaimes17)
 
+---
 
+## 📄 Documentation
 
+Here are links to my repositories where I document detailed configurations and setups:
+- [Raspberry Pi Projects](https://github.com/AJprogramming123/Raspberry-Pi) – Various projects to strengthen my network and security skills.
+- [Bash Linux Commands](https://github.com/AJprogramming123/Bash-Linux) – A collection of useful Bash commands for Linux systems.
