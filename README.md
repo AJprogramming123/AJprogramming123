@@ -18,9 +18,6 @@ Everything I work on supports my goal of mastering the full technology stack —
 
 ### 🔧 Current Projects
 
-- **🔐 Raspberry Pi Homelab Setup**  
-  A private, secure file-sharing system using Samba over Tailscale VPN. Hardened with Fail2Ban, firewalld, and SSH security controls.
-
 - **🧪 CI/CD with Pytest + GitHub Actions**  
   Building workflows that automate testing and deployment
 
