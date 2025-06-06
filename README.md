@@ -1,35 +1,91 @@
-# Hi, I'm Andres! 👋
-
-Welcome to my GitHub profile.
-
----
-
-## 🚀 About Me
-
-I'm currently working on:
-- Setting up **Homelab environments** using **Raspberry Pi** to learn and implement **networking** and **security** concepts.
-- Automating my **network environment** and strengthening security measures in practical setups.
-- **Documenting** my projects on **GitHub** to share my learning journey with the community.
+# Hi, I'm Andres 👋  
+**Senior IT Student | Aspiring DevOps Engineer | Infrastructure Enthusiast**
 
 ---
 
-## 🔧 Current Projects
+### 🚀 About Me
 
-### 🔐 [Raspberry Pi Homelab Setup](https://github.com/AJprogramming123/Raspberry_Pi)
+I'm passionate about building and securing infrastructures that work seamlessly. My interests span across:
 
-This project involves setting up a **secure file-sharing system** using **Samba** over **Tailscale VPN**. I secured the Raspberry Pi with **Fail2Ban**, **firewalld**, and **SSH hardening** to ensure only authorized devices can access the network. This setup serves as a **self-hosted, private cloud storage** solution accessible anywhere via VPN.
+- **System Administration** – Designing and automating secure, scalable environments.
+- **DevOps Practices** – Implementing CI/CD pipelines, containerization, and automation.
+- **Security Engineering** – Integrating robust security protocols into infrastructure.
+- **Web & Software Development** – Applying backend and frontend skills to build real-world applications.
 
----
-
-## 🌐 Connect with Me
-
-You can reach me through the following platforms:
-- LinkedIn: [Andres Jaimes](https://www.linkedin.com/in/andresjaimes17)
+Everything I work on supports my goal of mastering the full technology stack — from the physical server to automated deployment pipelines.
 
 ---
 
-## 📄 Documentation
+### 🔧 Current Projects
 
-Here are links to my repositories where I document detailed configurations and setups:
-- [Raspberry Pi Projects](https://github.com/AJprogramming123/Raspberry_Pi) – Various projects to strengthen my network and security skills.
-- [Bash Linux Commands](https://github.com/AJprogramming123/Bash-Linux) – A collection of useful Bash commands for Linux systems.
+- **🔐 Raspberry Pi Homelab Setup**  
+  A private, secure file-sharing system using Samba over Tailscale VPN. Hardened with Fail2Ban, firewalld, and SSH security controls.
+
+- **🧪 CI/CD with Pytest + GitHub Actions**  
+  Building workflows that automate testing and deployment for Flask + SQLAlchemy applications.
+
+- **🧰 Database Administration & Optimization**  
+  Documenting practical MySQL and SQL Server tasks, performance tuning, indexing, and T-SQL isolation levels.
+
+- **📓 Technical Documentation Habit**  
+  Maintaining clear records of system issues, resolutions, and project configurations.
+
+---
+
+### 📂 Repository Overview
+
+#### 🖥️ System Administration & Security
+
+| Repository | Description | Visibility |
+|------------|-------------|------------|
+| [`Raspberry_Pi`](https://github.com/AJprogramming123/Raspberry_Pi) | Homelab documentation: Samba, Tailscale VPN, Fail2Ban, firewalld, SSH lockdown. | Public |
+| `Tech-issues-documentation` | Logs and resolutions of real-world system and tech issues. | Private |
+| [`Bash-Linux`](https://github.com/AJprogramming123/Bash-Linux) | Bash scripting practice and Linux command reference. | Public |
+
+---
+
+#### ⚙️ DevOps & CI/CD
+
+| Repository | Description | Visibility |
+|------------|-------------|------------|
+| *In progress* | GitHub Actions + Pytest for Flask testing and automated deployments. | N/A |
+| [`AJprogramming123`](https://github.com/AJprogramming123/AJprogramming123) | General-purpose programming, includes automation and testing scripts. | Public |
+
+---
+
+#### 🗃️ Database & SQL
+
+| Repository | Description | Visibility |
+|------------|-------------|------------|
+| `MyDatabaseAdminJourney` | Notes and `.sql` scripts from database administration learning. | Private |
+| `DataCamp-SQL-` | SQL fundamentals and practice exercises from DataCamp. | Private |
+
+---
+
+#### 💻 Programming & Web Development
+
+| Repository | Description | Visibility |
+|------------|-------------|------------|
+| [`CEN3721`](https://github.com/AJprogramming123/CEN3721) | Coursework in HTML, CSS for FIU's Web Dev course. | Public |
+| [`SportsMAXing`](https://github.com/AJprogramming123/SportsMAXing) | Final webpage project built for CEN3721. | Public |
+| [`COP3804-JAVA2-FIU`](https://github.com/AJprogramming123/COP3804-JAVA2-FIU) | Java 2 coursework: OOP and data structures. | Public |
+| [`Java-FIU-`](https://github.com/AJprogramming123/Java-FIU-) | Programming 1 course: core Java principles and syntax. | Public |
+| `Javascript` | Course practice and fundamentals of JavaScript. | Private |
+| [`FreeCodeCamp`](https://github.com/AJprogramming123/FreeCodeCamp) | Projects and exercises from the FCC curriculum. | Public |
+
+---
+
+### 🎓 Education
+
+**Florida International University (FIU)**  
+*B.S. in Information Technology — Senior*
+
+---
+
+### 🌐 Let's Connect
+
+- **LinkedIn**: [Andres Jaimes](https://www.linkedin.com/in/your-link-here)
+
+---
+
+🛠 *This profile is a reflection of my continuous learning and serious commitment to infrastructure, DevOps, and secure system design.*
