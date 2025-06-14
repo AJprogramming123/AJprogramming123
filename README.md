@@ -1,5 +1,5 @@
 # Hi, I'm Andres 👋  
-**Senior IT Student | Aspiring DevOps Engineer | Infrastructure Enthusiast**
+**Senior IT Student | Infrastructure Enthusiast**
 
 ---
 
@@ -18,7 +18,7 @@ Everything I work on supports my goal of mastering the full technology stack —
 
 ### 🔧 Current Projects
 
-- **🧪 CI/CD with Pytest + GitHub Actions**  
+- **🧪 CI/CD with Unit testing + GitHub Actions**  
   Building workflows that automate testing and deployment
 
 - **🧰 Database Administration & Optimization**  
